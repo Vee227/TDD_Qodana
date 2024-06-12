@@ -10,7 +10,7 @@ int main()
 
     Cooker cooker;
     Reis rice1(5);
-    Reis rice2(7);
+    Reis rice2(7g);
     int rice3 = rice1 + rice2;
 
     cout<<"Die Kochzeit fuer beide Sorten Reis betraegt "<<rice3<<" Minuten!";
