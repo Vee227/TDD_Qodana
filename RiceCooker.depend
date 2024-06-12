@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1718161226 source:c:\users\grani\desktop\fhtechnikum\semester2\oop\ricecooker\main.cpp
+	<iostream>
+	<Cooker.h>
+	<Reis.h>
+	"Unittests.h"
+
+1718161334 source:c:\users\grani\desktop\fhtechnikum\semester2\oop\ricecooker\src\reis.cpp
+	"Reis.h"
+	<iostream>
+
+1718161317 c:\users\grani\desktop\fhtechnikum\semester2\oop\ricecooker\include\reis.h
+
+1718154046 source:c:\users\grani\desktop\fhtechnikum\semester2\oop\ricecooker\src\wildreis.cpp
+	"Wildreis.h"
+	<iostream>
+
+1718153905 c:\users\grani\desktop\fhtechnikum\semester2\oop\ricecooker\include\wildreis.h
+	<Reis.h>
+
+1718154979 source:c:\users\grani\desktop\fhtechnikum\semester2\oop\ricecooker\src\sushireis.cpp
+	"Sushireis.h"
+	<iostream>
+
+1718152153 c:\users\grani\desktop\fhtechnikum\semester2\oop\ricecooker\include\sushireis.h
+	<Reis.h>
+
+1718155144 source:c:\users\grani\desktop\fhtechnikum\semester2\oop\ricecooker\src\cooker.cpp
+	"Cooker.h"
+	<iostream>
+	<Wildreis.h>
+	<Sushireis.h>
+	<Reis.h>
+
+1718068755 c:\users\grani\desktop\fhtechnikum\semester2\oop\ricecooker\include\cooker.h
+	<Reis.h>
+
+1718154401 source:c:\users\grani\desktop\fhtechnikum\semester2\oop\ricecooker\src\unittests.cpp
+	"Unittests.h"
+	<iostream>
+	<assert.h>
+	<Reis.h>
+	<Wildreis.h>
+	<Sushireis.h>
+
+1718154369 c:\users\grani\desktop\fhtechnikum\semester2\oop\ricecooker\include\unittests.h
+
